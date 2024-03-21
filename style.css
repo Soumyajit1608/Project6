@@ -1,0 +1,15 @@
+.container-fluid{
+    background-color: rgb(220, 127, 127);
+}
+.container-fluid1{
+    background-image: url(flowers-1024x496.jpg);
+    height: 250px;
+}
+.container-fluid2{
+    background-image: url(wp5952078.webp);
+    height: 300px;
+}
+.container-fluid3{
+    background-image: url(footer.jpeg);
+    height: 200px;
+}
